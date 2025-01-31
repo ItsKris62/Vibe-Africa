@@ -1,7 +1,7 @@
 # 🎟 AfroTix - Event Management & Ticketing Platform  
 
 ## 📌 Overview  
-**AfroTix** is a **modern event management and ticketing platform** focused on **African concerts, cultural festivals, and live events**. The platform allows **event organizers** to create events, sell tickets securely, and manage attendees with **QR code-based ticketing**.  
+**VibraAfrika** is a **modern event management and ticketing platform** focused on **African concerts, cultural festivals, and live events**. The platform allows **event organizers** to create events, sell tickets securely, and manage attendees with **QR code-based ticketing**.  
 
 ## ✨ Features  
 - 🎭 **Animated event pages** (Framer Motion & React Spring)  
