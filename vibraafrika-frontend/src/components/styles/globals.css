@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Rokkit:wght@400;700&family=Brolimo:wght@400;700&family=Linden+Hill&display=swap');
+
+body {
+  font-family: 'Rokkit', serif;
+  background-color: #E6E6E6;
+  color: #39393A;
+}
+
+nav ul li a {
+  font-family: 'Brolimo', sans-serif;
+  transition: color 0.3s;
+}
+
+/* Active Link Styling */
+nav ul li a.active {
+  font-weight: bold;
+  color: #FF8552;
+}
